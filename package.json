@@ -1,0 +1,1 @@
+{"name":"fadfada-school","version":"1.0.0","private":true,"description":"مبادرة فضفضة - مساعد محادثة إرشادي للطالبات","scripts":{"start":"node server.js"},"engines":{"node":">=20"}}
